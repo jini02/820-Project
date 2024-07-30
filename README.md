@@ -1,1 +1,1 @@
-# 820-Project
+# Purchasing Intention with Machine Learning
